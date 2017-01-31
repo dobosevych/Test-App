@@ -15,6 +15,7 @@ def is_prime(n):
             return False
     return True
 
-
+def hello():
+    return 'hello'
 
 
